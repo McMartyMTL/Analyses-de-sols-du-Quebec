@@ -23982,7 +23982,11 @@
         "ISP1": 6.056477312683066,
         "Besoin_en_chaux": 4.9,
         "groupe": "MRC",
-        "Matiere_organique": 4.9321277392332465
+        "Matiere_organique": 4.9321277392332465,
+        "EF_N2O_annuelles": null,
+        "EF_N2O_annuelles_SD": null,
+        "EF_N2O_perennes": null,
+        "EF_N2O_perennes_SD": null
       },
       {
         "code": "02",
@@ -24002,7 +24006,11 @@
         "ISP1": 2.5293957860554586,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 5.564247607302883
+        "Matiere_organique": 5.564247607302883,
+        "EF_N2O_annuelles": 0.37,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "03",
@@ -24022,7 +24030,11 @@
         "ISP1": 1.9567452945786818,
         "Besoin_en_chaux": 6.9,
         "groupe": "MRC",
-        "Matiere_organique": 6.454321805365004
+        "Matiere_organique": 6.454321805365004,
+        "EF_N2O_annuelles": 0.39,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "04",
@@ -24042,7 +24054,11 @@
         "ISP1": 1.050159609520351,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 6.422565654235658
+        "Matiere_organique": 6.422565654235658,
+        "EF_N2O_annuelles": 0.41,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "05",
@@ -24062,7 +24078,11 @@
         "ISP1": 1.901573645346255,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 5.236872797840325
+        "Matiere_organique": 5.236872797840325,
+        "EF_N2O_annuelles": 0.45,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "06",
@@ -24082,7 +24102,11 @@
         "ISP1": 1.6723631269189798,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 6.666666666666713
+        "Matiere_organique": 6.666666666666713,
+        "EF_N2O_annuelles": 0.42,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "07",
@@ -24102,7 +24126,11 @@
         "ISP1": 2.750738644340206,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 7.060008262755797
+        "Matiere_organique": 7.060008262755797,
+        "EF_N2O_annuelles": 0.43,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "08",
@@ -24122,7 +24150,11 @@
         "ISP1": 1.764123976349845,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 7.296219789299747
+        "Matiere_organique": 7.296219789299747,
+        "EF_N2O_annuelles": 0.45,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "09",
@@ -24142,7 +24174,11 @@
         "ISP1": 2.374064687665021,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 6.678916077890836
+        "Matiere_organique": 6.678916077890836,
+        "EF_N2O_annuelles": 0.43,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "10",
@@ -24162,7 +24198,11 @@
         "ISP1": 3.248482159392805,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 6.914194517461411
+        "Matiere_organique": 6.914194517461411,
+        "EF_N2O_annuelles": 0.39,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "11",
@@ -24182,7 +24222,11 @@
         "ISP1": 3.1035703097414955,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 6.747701088679813
+        "Matiere_organique": 6.747701088679813,
+        "EF_N2O_annuelles": 0.4,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "12",
@@ -24202,7 +24246,11 @@
         "ISP1": 3.335883644941965,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 6.321538360913097
+        "Matiere_organique": 6.321538360913097,
+        "EF_N2O_annuelles": 0.42,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "13",
@@ -24222,7 +24270,11 @@
         "ISP1": 2.4184364242894762,
         "Besoin_en_chaux": 4.9,
         "groupe": "MRC",
-        "Matiere_organique": 7.15068493150706
+        "Matiere_organique": 7.15068493150706,
+        "EF_N2O_annuelles": 0.45,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "14",
@@ -24242,7 +24294,11 @@
         "ISP1": 3.6690094754588967,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 6.095215759849884
+        "Matiere_organique": 6.095215759849884,
+        "EF_N2O_annuelles": 0.51,
+        "EF_N2O_annuelles_SD": 0.06,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "15",
@@ -24262,7 +24318,11 @@
         "ISP1": 2.7552879810432516,
         "Besoin_en_chaux": 6.9,
         "groupe": "MRC",
-        "Matiere_organique": 6.384021570784634
+        "Matiere_organique": 6.384021570784634,
+        "EF_N2O_annuelles": 0.44,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "16",
@@ -24282,7 +24342,11 @@
         "ISP1": 2.7250709370242343,
         "Besoin_en_chaux": 5.900000000000005,
         "groupe": "MRC",
-        "Matiere_organique": 6.771827529944437
+        "Matiere_organique": 6.771827529944437,
+        "EF_N2O_annuelles": 0.52,
+        "EF_N2O_annuelles_SD": 0.07,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "17",
@@ -24302,7 +24366,11 @@
         "ISP1": 2.936985374685109,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 6.290280845484945
+        "Matiere_organique": 6.290280845484945,
+        "EF_N2O_annuelles": 0.57,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "18",
@@ -24322,7 +24390,11 @@
         "ISP1": 3.410751829440218,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 6.366702734808168
+        "Matiere_organique": 6.366702734808168,
+        "EF_N2O_annuelles": 0.7,
+        "EF_N2O_annuelles_SD": 0.07,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "19",
@@ -24342,7 +24414,11 @@
         "ISP1": 5.458966276794321,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 6.033715044966069
+        "Matiere_organique": 6.033715044966069,
+        "EF_N2O_annuelles": 0.9,
+        "EF_N2O_annuelles_SD": 0.06,
+        "EF_N2O_perennes": 0.1,
+        "EF_N2O_perennes_SD": 0.04
       },
       {
         "code": "20",
@@ -24362,7 +24438,11 @@
         "ISP1": 6.9864590072265464,
         "Besoin_en_chaux": 4.9,
         "groupe": "MRC",
-        "Matiere_organique": 4.590588260883668
+        "Matiere_organique": 4.590588260883668,
+        "EF_N2O_annuelles": 0.76,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.01,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "21",
@@ -24382,7 +24462,11 @@
         "ISP1": 2.749655531565462,
         "Besoin_en_chaux": 4.9,
         "groupe": "MRC",
-        "Matiere_organique": 5.324845534544187
+        "Matiere_organique": 5.324845534544187,
+        "EF_N2O_annuelles": 0.66,
+        "EF_N2O_annuelles_SD": 0.09,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "22",
@@ -24402,7 +24486,11 @@
         "ISP1": 3.3767390939518367,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 6.532147742817957
+        "Matiere_organique": 6.532147742817957,
+        "EF_N2O_annuelles": 1.03,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.18,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "23",
@@ -24422,7 +24510,11 @@
         "ISP1": 3.7519749777112956,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 4.373539697659713
+        "Matiere_organique": 4.373539697659713,
+        "EF_N2O_annuelles": 0.96,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.14,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "251",
@@ -24442,7 +24534,11 @@
         "ISP1": 4.952703343448546,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 5.354766048940319
+        "Matiere_organique": 5.354766048940319,
+        "EF_N2O_annuelles": 0.96,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.14,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "26",
@@ -24462,7 +24558,11 @@
         "ISP1": 5.841271182166966,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 6.126158232359257
+        "Matiere_organique": 6.126158232359257,
+        "EF_N2O_annuelles": 1.05,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.2,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "27",
@@ -24482,7 +24582,11 @@
         "ISP1": 4.1492331016505855,
         "Besoin_en_chaux": 4.9,
         "groupe": "MRC",
-        "Matiere_organique": 6.317909132860707
+        "Matiere_organique": 6.317909132860707,
+        "EF_N2O_annuelles": 0.9,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.1,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "28",
@@ -24502,7 +24606,11 @@
         "ISP1": 3.061915920348081,
         "Besoin_en_chaux": 4.9,
         "groupe": "MRC",
-        "Matiere_organique": 7.842072733396153
+        "Matiere_organique": 7.842072733396153,
+        "EF_N2O_annuelles": 0.73,
+        "EF_N2O_annuelles_SD": 0.06,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "29",
@@ -24522,7 +24630,11 @@
         "ISP1": 3.320592893215901,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 6.8472035305437
+        "Matiere_organique": 6.8472035305437,
+        "EF_N2O_annuelles": 0.73,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "30",
@@ -24542,7 +24654,11 @@
         "ISP1": 2.6766510534686176,
         "Besoin_en_chaux": 4.9,
         "groupe": "MRC",
-        "Matiere_organique": 7.567600971087979
+        "Matiere_organique": 7.567600971087979,
+        "EF_N2O_annuelles": 0.71,
+        "EF_N2O_annuelles_SD": 0.08,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.04
       },
       {
         "code": "31",
@@ -24562,7 +24678,11 @@
         "ISP1": 3.0564042801530316,
         "Besoin_en_chaux": 4.9,
         "groupe": "MRC",
-        "Matiere_organique": 7.339108910890988
+        "Matiere_organique": 7.339108910890988,
+        "EF_N2O_annuelles": 0.99,
+        "EF_N2O_annuelles_SD": 0.06,
+        "EF_N2O_perennes": 0.16,
+        "EF_N2O_perennes_SD": 0.04
       },
       {
         "code": "32",
@@ -24582,7 +24702,11 @@
         "ISP1": 3.988540774136486,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 6.583108562584315
+        "Matiere_organique": 6.583108562584315,
+        "EF_N2O_annuelles": 1.09,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.23,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "33",
@@ -24602,7 +24726,11 @@
         "ISP1": 4.8434503745004305,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 5.460563856114183
+        "Matiere_organique": 5.460563856114183,
+        "EF_N2O_annuelles": 1.06,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.21,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "34",
@@ -24622,7 +24750,11 @@
         "ISP1": 3.044574869321769,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 5.487237508085926
+        "Matiere_organique": 5.487237508085926,
+        "EF_N2O_annuelles": 1.0,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.17,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "35",
@@ -24642,7 +24774,11 @@
         "ISP1": 1.6552816657038578,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 6.127408862157701
+        "Matiere_organique": 6.127408862157701,
+        "EF_N2O_annuelles": 0.8,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.04,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "36",
@@ -24662,7 +24798,11 @@
         "ISP1": 2.756378511126791,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 4.721571830421539
+        "Matiere_organique": 4.721571830421539,
+        "EF_N2O_annuelles": 0.7,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "371",
@@ -24682,7 +24822,11 @@
         "ISP1": 3.464668647264103,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 4.558777581050774
+        "Matiere_organique": 4.558777581050774,
+        "EF_N2O_annuelles": 0.9,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.1,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "372",
@@ -24702,7 +24846,11 @@
         "ISP1": 3.188046282088086,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 4.589781307928652
+        "Matiere_organique": 4.589781307928652,
+        "EF_N2O_annuelles": 0.92,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.11,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "38",
@@ -24722,7 +24870,11 @@
         "ISP1": 3.6655697706434154,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 4.084290631602721
+        "Matiere_organique": 4.084290631602721,
+        "EF_N2O_annuelles": 0.96,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.14,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "39",
@@ -24742,7 +24894,11 @@
         "ISP1": 4.618348960957604,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 4.98991435468404
+        "Matiere_organique": 4.98991435468404,
+        "EF_N2O_annuelles": 1.08,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.22,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "40",
@@ -24762,7 +24918,11 @@
         "ISP1": 2.9458167386288237,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 6.8079138772617105
+        "Matiere_organique": 6.8079138772617105,
+        "EF_N2O_annuelles": 1.06,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.21,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "41",
@@ -24782,7 +24942,11 @@
         "ISP1": 2.5932550259030025,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 6.764241981826816
+        "Matiere_organique": 6.764241981826816,
+        "EF_N2O_annuelles": 0.94,
+        "EF_N2O_annuelles_SD": 0.06,
+        "EF_N2O_perennes": 0.13,
+        "EF_N2O_perennes_SD": 0.04
       },
       {
         "code": "42",
@@ -24802,7 +24966,11 @@
         "ISP1": 3.295271253510375,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 6.298909557408616
+        "Matiere_organique": 6.298909557408616,
+        "EF_N2O_annuelles": 1.08,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.22,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "43",
@@ -24822,7 +24990,11 @@
         "ISP1": 2.8531923299309705,
         "Besoin_en_chaux": 4.9,
         "groupe": "MRC",
-        "Matiere_organique": 5.712188835427604
+        "Matiere_organique": 5.712188835427604,
+        "EF_N2O_annuelles": 1.01,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.18,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "44",
@@ -24842,7 +25014,11 @@
         "ISP1": 3.8680799214774817,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 5.761961128718157
+        "Matiere_organique": 5.761961128718157,
+        "EF_N2O_annuelles": 0.87,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.08,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "45",
@@ -24862,7 +25038,11 @@
         "ISP1": 2.3385888751382193,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 5.948674194652524
+        "Matiere_organique": 5.948674194652524,
+        "EF_N2O_annuelles": 0.99,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.16,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "46",
@@ -24882,7 +25062,11 @@
         "ISP1": 5.539809802813874,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 4.96087151377261
+        "Matiere_organique": 4.96087151377261,
+        "EF_N2O_annuelles": 1.12,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.25,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "47",
@@ -24902,7 +25086,11 @@
         "ISP1": 5.79446954596274,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 5.651436591667737
+        "Matiere_organique": 5.651436591667737,
+        "EF_N2O_annuelles": 1.1,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.23,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "48",
@@ -24922,7 +25110,11 @@
         "ISP1": 6.788642788365429,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 3.95593815483948
+        "Matiere_organique": 3.95593815483948,
+        "EF_N2O_annuelles": 1.03,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.19,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "49",
@@ -24942,7 +25134,11 @@
         "ISP1": 5.432148655936469,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 3.8009020892728564
+        "Matiere_organique": 3.8009020892728564,
+        "EF_N2O_annuelles": 1.01,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.18,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "50",
@@ -24962,7 +25158,11 @@
         "ISP1": 5.1891549060490805,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 3.4865312226442144
+        "Matiere_organique": 3.4865312226442144,
+        "EF_N2O_annuelles": 0.95,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.13,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "51",
@@ -24982,7 +25182,11 @@
         "ISP1": 3.8536784935001247,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 4.389403257417025
+        "Matiere_organique": 4.389403257417025,
+        "EF_N2O_annuelles": 0.77,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.02,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "52",
@@ -25002,7 +25206,11 @@
         "ISP1": 4.503507410381927,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 4.201116297191357
+        "Matiere_organique": 4.201116297191357,
+        "EF_N2O_annuelles": 0.77,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.02,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "53",
@@ -25022,7 +25230,11 @@
         "ISP1": 4.810355596851436,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 3.53571368335741
+        "Matiere_organique": 3.53571368335741,
+        "EF_N2O_annuelles": 0.9,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.1,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "54",
@@ -25042,7 +25254,11 @@
         "ISP1": 8.245541019006085,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 3.221462834826055
+        "Matiere_organique": 3.221462834826055,
+        "EF_N2O_annuelles": 0.95,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.13,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "55",
@@ -25062,7 +25278,11 @@
         "ISP1": 5.523691159335659,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 4.0193093204604775
+        "Matiere_organique": 4.0193093204604775,
+        "EF_N2O_annuelles": 1.05,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.2,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "56",
@@ -25082,7 +25302,11 @@
         "ISP1": 5.743285956832708,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 3.9544189910839584
+        "Matiere_organique": 3.9544189910839584,
+        "EF_N2O_annuelles": 1.08,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.22,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "57",
@@ -25102,7 +25326,11 @@
         "ISP1": 4.061433415503624,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 4.13393556780083
+        "Matiere_organique": 4.13393556780083,
+        "EF_N2O_annuelles": 1.01,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.17,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "58",
@@ -25122,7 +25350,11 @@
         "ISP1": 4.693269178938126,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 4.549726441994306
+        "Matiere_organique": 4.549726441994306,
+        "EF_N2O_annuelles": 1.08,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.22,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "59",
@@ -25142,7 +25374,11 @@
         "ISP1": 3.840030641627742,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 4.3779183362586
+        "Matiere_organique": 4.3779183362586,
+        "EF_N2O_annuelles": 0.97,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.15,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "60",
@@ -25162,7 +25398,11 @@
         "ISP1": 4.6905186599515085,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 3.8319873557493844
+        "Matiere_organique": 3.8319873557493844,
+        "EF_N2O_annuelles": 0.84,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.06,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "61",
@@ -25182,7 +25422,11 @@
         "ISP1": 4.510762046375417,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 3.997502033205135
+        "Matiere_organique": 3.997502033205135,
+        "EF_N2O_annuelles": 0.74,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "62",
@@ -25202,7 +25446,11 @@
         "ISP1": 4.472242505137666,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 4.903742089222336
+        "Matiere_organique": 4.903742089222336,
+        "EF_N2O_annuelles": 0.71,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "63",
@@ -25222,7 +25470,11 @@
         "ISP1": 6.865952069205727,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 3.941084837509737
+        "Matiere_organique": 3.941084837509737,
+        "EF_N2O_annuelles": 0.76,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.01,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "64",
@@ -25242,7 +25494,11 @@
         "ISP1": 4.075434978723303,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 3.935195159558539
+        "Matiere_organique": 3.935195159558539,
+        "EF_N2O_annuelles": 0.89,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.1,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "65",
@@ -25262,7 +25518,11 @@
         "ISP1": 10.674123759201319,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 3.5626774052108576
+        "Matiere_organique": 3.5626774052108576,
+        "EF_N2O_annuelles": 0.92,
+        "EF_N2O_annuelles_SD": 0.01,
+        "EF_N2O_perennes": 0.11,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "66",
@@ -25282,7 +25542,11 @@
         "ISP1": 7.059322010550272,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 4.88137758805933
+        "Matiere_organique": 4.88137758805933,
+        "EF_N2O_annuelles": 1.0,
+        "EF_N2O_annuelles_SD": 0.01,
+        "EF_N2O_perennes": 0.17,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "67",
@@ -25302,7 +25566,11 @@
         "ISP1": 5.0239690261434635,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 4.2468388931157985
+        "Matiere_organique": 4.2468388931157985,
+        "EF_N2O_annuelles": 1.06,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.21,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "68",
@@ -25322,7 +25590,11 @@
         "ISP1": 6.352217288561948,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 4.280366194383313
+        "Matiere_organique": 4.280366194383313,
+        "EF_N2O_annuelles": 1.13,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.25,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "69",
@@ -25342,7 +25614,11 @@
         "ISP1": 4.442163827711594,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 5.0786220713037835
+        "Matiere_organique": 5.0786220713037835,
+        "EF_N2O_annuelles": 1.05,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.2,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "70",
@@ -25362,7 +25638,11 @@
         "ISP1": 4.555687535966211,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 4.677113209057056
+        "Matiere_organique": 4.677113209057056,
+        "EF_N2O_annuelles": 1.0,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.16,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "71",
@@ -25382,7 +25662,11 @@
         "ISP1": 4.186980574003897,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 4.585017238878702
+        "Matiere_organique": 4.585017238878702,
+        "EF_N2O_annuelles": 0.96,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.14,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "72",
@@ -25402,7 +25686,11 @@
         "ISP1": 4.560124407385768,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 4.609766437986641
+        "Matiere_organique": 4.609766437986641,
+        "EF_N2O_annuelles": 0.95,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.14,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "73",
@@ -25422,7 +25710,11 @@
         "ISP1": 3.3302838116820506,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 4.4381778741864455
+        "Matiere_organique": 4.4381778741864455,
+        "EF_N2O_annuelles": 0.89,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.1,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "74",
@@ -25442,7 +25734,11 @@
         "ISP1": 3.9475045422628154,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 5.060776919415606
+        "Matiere_organique": 5.060776919415606,
+        "EF_N2O_annuelles": 0.96,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.14,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "75",
@@ -25462,7 +25758,11 @@
         "ISP1": 3.2364847449317127,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 4.779411764705906
+        "Matiere_organique": 4.779411764705906,
+        "EF_N2O_annuelles": 0.87,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.08,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "76",
@@ -25482,7 +25782,11 @@
         "ISP1": 3.2473016338469387,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 5.634215208761358
+        "Matiere_organique": 5.634215208761358,
+        "EF_N2O_annuelles": 1.01,
+        "EF_N2O_annuelles_SD": 0.08,
+        "EF_N2O_perennes": 0.17,
+        "EF_N2O_perennes_SD": 0.05
       },
       {
         "code": "78",
@@ -25502,7 +25806,11 @@
         "ISP1": 2.162377997043511,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 5.4948709766174275
+        "Matiere_organique": 5.4948709766174275,
+        "EF_N2O_annuelles": 0.77,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.01,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "79",
@@ -25522,7 +25830,11 @@
         "ISP1": 2.2411325263525224,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 5.4911004784342
+        "Matiere_organique": 5.4911004784342,
+        "EF_N2O_annuelles": 0.73,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "80",
@@ -25542,7 +25854,11 @@
         "ISP1": 1.7672674710257996,
         "Besoin_en_chaux": 5.900000000000005,
         "groupe": "MRC",
-        "Matiere_organique": 5.546762657919515
+        "Matiere_organique": 5.546762657919515,
+        "EF_N2O_annuelles": 0.86,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.07,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "81",
@@ -25562,7 +25878,11 @@
         "ISP1": 2.474790320936116,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 5.134076836504976
+        "Matiere_organique": 5.134076836504976,
+        "EF_N2O_annuelles": 0.91,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.11,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "82",
@@ -25582,7 +25902,11 @@
         "ISP1": 2.262110831259253,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 5.159866174593844
+        "Matiere_organique": 5.159866174593844,
+        "EF_N2O_annuelles": 0.82,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.05,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "83",
@@ -25602,7 +25926,11 @@
         "ISP1": 1.982402674177087,
         "Besoin_en_chaux": 4.9,
         "groupe": "MRC",
-        "Matiere_organique": 5.602640916067245
+        "Matiere_organique": 5.602640916067245,
+        "EF_N2O_annuelles": 0.73,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "84",
@@ -25622,7 +25950,11 @@
         "ISP1": 2.7122998080231238,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 4.856030432678021
+        "Matiere_organique": 4.856030432678021,
+        "EF_N2O_annuelles": 0.74,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "85",
@@ -25642,7 +25974,11 @@
         "ISP1": 1.5873739818964747,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 4.972022101694796
+        "Matiere_organique": 4.972022101694796,
+        "EF_N2O_annuelles": 0.43,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "86",
@@ -25662,7 +25998,11 @@
         "ISP1": 1.2725617982210293,
         "Besoin_en_chaux": 4.9,
         "groupe": "MRC",
-        "Matiere_organique": 6.847869899428944
+        "Matiere_organique": 6.847869899428944,
+        "EF_N2O_annuelles": 0.33,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "87",
@@ -25682,7 +26022,11 @@
         "ISP1": 1.3892885536670636,
         "Besoin_en_chaux": 5.900000000000005,
         "groupe": "MRC",
-        "Matiere_organique": 8.344357509823698
+        "Matiere_organique": 8.344357509823698,
+        "EF_N2O_annuelles": 0.29,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "88",
@@ -25702,7 +26046,11 @@
         "ISP1": 1.2096757243934033,
         "Besoin_en_chaux": 6.9,
         "groupe": "MRC",
-        "Matiere_organique": 6.50354666454112
+        "Matiere_organique": 6.50354666454112,
+        "EF_N2O_annuelles": 0.3,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "89",
@@ -25722,7 +26070,11 @@
         "ISP1": 2.271859335838652,
         "Besoin_en_chaux": 4.0,
         "groupe": "MRC",
-        "Matiere_organique": 5.61556999579572
+        "Matiere_organique": 5.61556999579572,
+        "EF_N2O_annuelles": 0.35,
+        "EF_N2O_annuelles_SD": 0.01,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "90",
@@ -25742,7 +26094,11 @@
         "ISP1": 3.2315167943512155,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 3.5990538899186033
+        "Matiere_organique": 3.5990538899186033,
+        "EF_N2O_annuelles": 0.5,
+        "EF_N2O_annuelles_SD": 0.01,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "91",
@@ -25762,7 +26118,11 @@
         "ISP1": 2.926369736485265,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 4.52026146934459
+        "Matiere_organique": 4.52026146934459,
+        "EF_N2O_annuelles": 0.43,
+        "EF_N2O_annuelles_SD": 0.08,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "92",
@@ -25782,7 +26142,11 @@
         "ISP1": 2.1598940647168576,
         "Besoin_en_chaux": 5.900000000000005,
         "groupe": "MRC",
-        "Matiere_organique": 5.27227913425251
+        "Matiere_organique": 5.27227913425251,
+        "EF_N2O_annuelles": 0.46,
+        "EF_N2O_annuelles_SD": 0.07,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "93",
@@ -25802,7 +26166,11 @@
         "ISP1": 2.296749111466213,
         "Besoin_en_chaux": 2.000000000000009,
         "groupe": "MRC",
-        "Matiere_organique": 5.99009701702828
+        "Matiere_organique": 5.99009701702828,
+        "EF_N2O_annuelles": 0.64,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "941",
@@ -25822,7 +26190,11 @@
         "ISP1": 1.7852180117967922,
         "Besoin_en_chaux": 4.9,
         "groupe": "MRC",
-        "Matiere_organique": 6.654755301698068
+        "Matiere_organique": 6.654755301698068,
+        "EF_N2O_annuelles": 0.55,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "942",
@@ -25842,7 +26214,11 @@
         "ISP1": 1.474915504943824,
         "Besoin_en_chaux": 5.900000000000005,
         "groupe": "MRC",
-        "Matiere_organique": 6.88310815352554
+        "Matiere_organique": 6.88310815352554,
+        "EF_N2O_annuelles": 0.64,
+        "EF_N2O_annuelles_SD": 0.07,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "95",
@@ -25862,7 +26238,11 @@
         "ISP1": 95.15397719465122,
         "Besoin_en_chaux": 6.9,
         "groupe": "MRC",
-        "Matiere_organique": 6.587797421725005
+        "Matiere_organique": 6.587797421725005,
+        "EF_N2O_annuelles": 0.37,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "96",
@@ -25882,7 +26262,11 @@
         "ISP1": 2.581738684657948,
         "Besoin_en_chaux": 7.950000000000005,
         "groupe": "MRC",
-        "Matiere_organique": 4.296137917478247
+        "Matiere_organique": 4.296137917478247,
+        "EF_N2O_annuelles": 0.39,
+        "EF_N2O_annuelles_SD": 0.01,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "971",
@@ -25902,7 +26286,11 @@
         "ISP1": 2.0568290646227703,
         "Besoin_en_chaux": 7.950000000000005,
         "groupe": "MRC",
-        "Matiere_organique": 7.018056442495231
+        "Matiere_organique": 7.018056442495231,
+        "EF_N2O_annuelles": null,
+        "EF_N2O_annuelles_SD": null,
+        "EF_N2O_perennes": null,
+        "EF_N2O_perennes_SD": null
       },
       {
         "code": "981",
@@ -25922,7 +26310,11 @@
         "ISP1": 23.234598342414888,
         "Besoin_en_chaux": 11.0,
         "groupe": "MRC",
-        "Matiere_organique": 6.165941134429155
+        "Matiere_organique": 6.165941134429155,
+        "EF_N2O_annuelles": null,
+        "EF_N2O_annuelles_SD": null,
+        "EF_N2O_perennes": null,
+        "EF_N2O_perennes_SD": null
       },
       {
         "code": "991",
@@ -25942,7 +26334,11 @@
         "ISP1": 4.344176847017586,
         "Besoin_en_chaux": 0.0,
         "groupe": "MRC",
-        "Matiere_organique": 3.42081048374006
+        "Matiere_organique": 3.42081048374006,
+        "EF_N2O_annuelles": 0.16,
+        "EF_N2O_annuelles_SD": 0.01,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       }
     ],
     "moyenne": [
@@ -49927,7 +50323,11 @@
         "ISP1": 11.415636012323294,
         "Besoin_en_chaux": 4.764814814814817,
         "groupe": "MRC",
-        "Matiere_organique": 5.63384762485137
+        "Matiere_organique": 5.63384762485137,
+        "EF_N2O_annuelles": null,
+        "EF_N2O_annuelles_SD": null,
+        "EF_N2O_perennes": null,
+        "EF_N2O_perennes_SD": null
       },
       {
         "code": "02",
@@ -49947,7 +50347,11 @@
         "ISP1": 6.852853904016771,
         "Besoin_en_chaux": 4.134079601990051,
         "groupe": "MRC",
-        "Matiere_organique": 6.214359605600851
+        "Matiere_organique": 6.214359605600851,
+        "EF_N2O_annuelles": 0.39,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "03",
@@ -49967,7 +50371,11 @@
         "ISP1": 4.985157360106678,
         "Besoin_en_chaux": 6.0930894308943095,
         "groupe": "MRC",
-        "Matiere_organique": 7.270820851822487
+        "Matiere_organique": 7.270820851822487,
+        "EF_N2O_annuelles": 0.4,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "04",
@@ -49987,7 +50395,11 @@
         "ISP1": 1.8001131339689798,
         "Besoin_en_chaux": 4.650819672131149,
         "groupe": "MRC",
-        "Matiere_organique": 6.837746590998541
+        "Matiere_organique": 6.837746590998541,
+        "EF_N2O_annuelles": 0.41,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "05",
@@ -50007,7 +50419,11 @@
         "ISP1": 3.0500807362105276,
         "Besoin_en_chaux": 3.763491379310347,
         "groupe": "MRC",
-        "Matiere_organique": 5.749326235127586
+        "Matiere_organique": 5.749326235127586,
+        "EF_N2O_annuelles": 0.45,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "06",
@@ -50027,7 +50443,11 @@
         "ISP1": 2.888464613117043,
         "Besoin_en_chaux": 3.7877790834312597,
         "groupe": "MRC",
-        "Matiere_organique": 7.022834207051539
+        "Matiere_organique": 7.022834207051539,
+        "EF_N2O_annuelles": 0.42,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "07",
@@ -50047,7 +50467,11 @@
         "ISP1": 3.8312598138723177,
         "Besoin_en_chaux": 2.7562885572139324,
         "groupe": "MRC",
-        "Matiere_organique": 7.801991181360079
+        "Matiere_organique": 7.801991181360079,
+        "EF_N2O_annuelles": 0.43,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "08",
@@ -50067,7 +50491,11 @@
         "ISP1": 2.8922799550139073,
         "Besoin_en_chaux": 3.5491030003093123,
         "groupe": "MRC",
-        "Matiere_organique": 7.6012384231443635
+        "Matiere_organique": 7.6012384231443635,
+        "EF_N2O_annuelles": 0.46,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "09",
@@ -50087,7 +50515,11 @@
         "ISP1": 3.4656049522095076,
         "Besoin_en_chaux": 2.498198792908338,
         "groupe": "MRC",
-        "Matiere_organique": 7.337109364336398
+        "Matiere_organique": 7.337109364336398,
+        "EF_N2O_annuelles": 0.43,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "10",
@@ -50107,7 +50539,11 @@
         "ISP1": 4.946095198868288,
         "Besoin_en_chaux": 2.7572263187748174,
         "groupe": "MRC",
-        "Matiere_organique": 7.631221405765753
+        "Matiere_organique": 7.631221405765753,
+        "EF_N2O_annuelles": 0.39,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "11",
@@ -50127,7 +50563,11 @@
         "ISP1": 4.412458861858598,
         "Besoin_en_chaux": 4.13140932265113,
         "groupe": "MRC",
-        "Matiere_organique": 7.197385602062863
+        "Matiere_organique": 7.197385602062863,
+        "EF_N2O_annuelles": 0.39,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "12",
@@ -50147,7 +50587,11 @@
         "ISP1": 5.073162707643194,
         "Besoin_en_chaux": 3.907996613995487,
         "groupe": "MRC",
-        "Matiere_organique": 7.092486542476057
+        "Matiere_organique": 7.092486542476057,
+        "EF_N2O_annuelles": 0.42,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "13",
@@ -50167,7 +50611,11 @@
         "ISP1": 3.3123343583383122,
         "Besoin_en_chaux": 4.477147184604421,
         "groupe": "MRC",
-        "Matiere_organique": 7.230098005606674
+        "Matiere_organique": 7.230098005606674,
+        "EF_N2O_annuelles": 0.45,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "14",
@@ -50187,7 +50635,11 @@
         "ISP1": 5.847536360116475,
         "Besoin_en_chaux": 3.10631541946571,
         "groupe": "MRC",
-        "Matiere_organique": 6.776996114661271
+        "Matiere_organique": 6.776996114661271,
+        "EF_N2O_annuelles": 0.52,
+        "EF_N2O_annuelles_SD": 0.06,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "15",
@@ -50207,7 +50659,11 @@
         "ISP1": 4.107180128078462,
         "Besoin_en_chaux": 5.867825494205864,
         "groupe": "MRC",
-        "Matiere_organique": 6.429720317572009
+        "Matiere_organique": 6.429720317572009,
+        "EF_N2O_annuelles": 0.44,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "16",
@@ -50227,7 +50683,11 @@
         "ISP1": 4.327424539973171,
         "Besoin_en_chaux": 5.575317301269207,
         "groupe": "MRC",
-        "Matiere_organique": 6.698767253671477
+        "Matiere_organique": 6.698767253671477,
+        "EF_N2O_annuelles": 0.5,
+        "EF_N2O_annuelles_SD": 0.07,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "17",
@@ -50247,7 +50707,11 @@
         "ISP1": 4.6379475445589495,
         "Besoin_en_chaux": 3.6618971989604403,
         "groupe": "MRC",
-        "Matiere_organique": 6.661432257477745
+        "Matiere_organique": 6.661432257477745,
+        "EF_N2O_annuelles": 0.58,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "18",
@@ -50267,7 +50731,11 @@
         "ISP1": 4.913279625517213,
         "Besoin_en_chaux": 3.5317791762013746,
         "groupe": "MRC",
-        "Matiere_organique": 6.805980917540409
+        "Matiere_organique": 6.805980917540409,
+        "EF_N2O_annuelles": 0.7,
+        "EF_N2O_annuelles_SD": 0.07,
+        "EF_N2O_perennes": 0.01,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "19",
@@ -50287,7 +50755,11 @@
         "ISP1": 8.142527141023663,
         "Besoin_en_chaux": 3.751303310468239,
         "groupe": "MRC",
-        "Matiere_organique": 6.412581404427052
+        "Matiere_organique": 6.412581404427052,
+        "EF_N2O_annuelles": 0.9,
+        "EF_N2O_annuelles_SD": 0.06,
+        "EF_N2O_perennes": 0.1,
+        "EF_N2O_perennes_SD": 0.04
       },
       {
         "code": "20",
@@ -50307,7 +50779,11 @@
         "ISP1": 8.46109740578877,
         "Besoin_en_chaux": 5.00048993644068,
         "groupe": "MRC",
-        "Matiere_organique": 4.853108693164985
+        "Matiere_organique": 4.853108693164985,
+        "EF_N2O_annuelles": 0.77,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.02,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "21",
@@ -50327,7 +50803,11 @@
         "ISP1": 4.629655927758748,
         "Besoin_en_chaux": 4.376431718061675,
         "groupe": "MRC",
-        "Matiere_organique": 5.649785728188301
+        "Matiere_organique": 5.649785728188301,
+        "EF_N2O_annuelles": 0.66,
+        "EF_N2O_annuelles_SD": 0.09,
+        "EF_N2O_perennes": 0.01,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "22",
@@ -50347,7 +50827,11 @@
         "ISP1": 8.097308413820775,
         "Besoin_en_chaux": 4.746200000000001,
         "groupe": "MRC",
-        "Matiere_organique": 6.847410169005191
+        "Matiere_organique": 6.847410169005191,
+        "EF_N2O_annuelles": 1.0,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.17,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "23",
@@ -50367,7 +50851,11 @@
         "ISP1": 8.262440917606868,
         "Besoin_en_chaux": 3.5603917301414594,
         "groupe": "MRC",
-        "Matiere_organique": 5.186562215775309
+        "Matiere_organique": 5.186562215775309,
+        "EF_N2O_annuelles": 0.96,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.14,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "251",
@@ -50387,7 +50875,11 @@
         "ISP1": 7.587842786051518,
         "Besoin_en_chaux": 3.1449928263988536,
         "groupe": "MRC",
-        "Matiere_organique": 5.905158396220027
+        "Matiere_organique": 5.905158396220027,
+        "EF_N2O_annuelles": 0.96,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.14,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "26",
@@ -50407,7 +50899,11 @@
         "ISP1": 7.601108900176383,
         "Besoin_en_chaux": 3.2851567990161645,
         "groupe": "MRC",
-        "Matiere_organique": 6.434719053531065
+        "Matiere_organique": 6.434719053531065,
+        "EF_N2O_annuelles": 1.05,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.2,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "27",
@@ -50427,7 +50923,11 @@
         "ISP1": 5.344256860324444,
         "Besoin_en_chaux": 4.415938057608974,
         "groupe": "MRC",
-        "Matiere_organique": 6.615009234197506
+        "Matiere_organique": 6.615009234197506,
+        "EF_N2O_annuelles": 0.9,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.1,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "28",
@@ -50447,7 +50947,11 @@
         "ISP1": 4.047384498390389,
         "Besoin_en_chaux": 5.625815342214057,
         "groupe": "MRC",
-        "Matiere_organique": 7.935950536282179
+        "Matiere_organique": 7.935950536282179,
+        "EF_N2O_annuelles": 0.74,
+        "EF_N2O_annuelles_SD": 0.06,
+        "EF_N2O_perennes": 0.01,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "29",
@@ -50467,7 +50971,11 @@
         "ISP1": 4.763176148410273,
         "Besoin_en_chaux": 4.271567891972995,
         "groupe": "MRC",
-        "Matiere_organique": 7.447214047296211
+        "Matiere_organique": 7.447214047296211,
+        "EF_N2O_annuelles": 0.74,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.01,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "30",
@@ -50487,7 +50995,11 @@
         "ISP1": 3.7115094727072617,
         "Besoin_en_chaux": 4.906581532416505,
         "groupe": "MRC",
-        "Matiere_organique": 7.991490095440529
+        "Matiere_organique": 7.991490095440529,
+        "EF_N2O_annuelles": 0.74,
+        "EF_N2O_annuelles_SD": 0.08,
+        "EF_N2O_perennes": 0.02,
+        "EF_N2O_perennes_SD": 0.04
       },
       {
         "code": "31",
@@ -50507,7 +51019,11 @@
         "ISP1": 4.438259493657765,
         "Besoin_en_chaux": 5.082360435487609,
         "groupe": "MRC",
-        "Matiere_organique": 7.705326870046854
+        "Matiere_organique": 7.705326870046854,
+        "EF_N2O_annuelles": 0.98,
+        "EF_N2O_annuelles_SD": 0.06,
+        "EF_N2O_perennes": 0.15,
+        "EF_N2O_perennes_SD": 0.04
       },
       {
         "code": "32",
@@ -50527,7 +51043,11 @@
         "ISP1": 5.22895589942603,
         "Besoin_en_chaux": 4.26393442622951,
         "groupe": "MRC",
-        "Matiere_organique": 6.617402312997081
+        "Matiere_organique": 6.617402312997081,
+        "EF_N2O_annuelles": 1.08,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.22,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "33",
@@ -50547,7 +51067,11 @@
         "ISP1": 6.37636788892029,
         "Besoin_en_chaux": 3.137422384352687,
         "groupe": "MRC",
-        "Matiere_organique": 6.0765641446617105
+        "Matiere_organique": 6.0765641446617105,
+        "EF_N2O_annuelles": 1.06,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.21,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "34",
@@ -50567,7 +51091,11 @@
         "ISP1": 4.622771817249436,
         "Besoin_en_chaux": 3.0261836669844313,
         "groupe": "MRC",
-        "Matiere_organique": 6.099106986344208
+        "Matiere_organique": 6.099106986344208,
+        "EF_N2O_annuelles": 0.99,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.16,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "35",
@@ -50587,7 +51115,11 @@
         "ISP1": 2.2373817457833343,
         "Besoin_en_chaux": 4.051360174102287,
         "groupe": "MRC",
-        "Matiere_organique": 6.361087706677563
+        "Matiere_organique": 6.361087706677563,
+        "EF_N2O_annuelles": 0.8,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.04,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "36",
@@ -50607,7 +51139,11 @@
         "ISP1": 4.347134853831609,
         "Besoin_en_chaux": 3.3732456140350893,
         "groupe": "MRC",
-        "Matiere_organique": 5.002634579141781
+        "Matiere_organique": 5.002634579141781,
+        "EF_N2O_annuelles": 0.71,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "371",
@@ -50627,7 +51163,11 @@
         "ISP1": 5.775103793623014,
         "Besoin_en_chaux": 4.221703617269546,
         "groupe": "MRC",
-        "Matiere_organique": 6.252422063430291
+        "Matiere_organique": 6.252422063430291,
+        "EF_N2O_annuelles": 0.91,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.11,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "372",
@@ -50647,7 +51187,11 @@
         "ISP1": 4.496036898681713,
         "Besoin_en_chaux": 2.9568054504163532,
         "groupe": "MRC",
-        "Matiere_organique": 4.962697160937096
+        "Matiere_organique": 4.962697160937096,
+        "EF_N2O_annuelles": 0.91,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.11,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "38",
@@ -50667,7 +51211,11 @@
         "ISP1": 4.671934772563216,
         "Besoin_en_chaux": 1.8691558005108229,
         "groupe": "MRC",
-        "Matiere_organique": 4.325193705112692
+        "Matiere_organique": 4.325193705112692,
+        "EF_N2O_annuelles": 0.97,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.15,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "39",
@@ -50687,7 +51235,11 @@
         "ISP1": 5.929726352681116,
         "Besoin_en_chaux": 2.340573684368528,
         "groupe": "MRC",
-        "Matiere_organique": 5.187531466167187
+        "Matiere_organique": 5.187531466167187,
+        "EF_N2O_annuelles": 1.06,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.21,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "40",
@@ -50707,7 +51259,11 @@
         "ISP1": 3.963913408026844,
         "Besoin_en_chaux": 3.5414224664224685,
         "groupe": "MRC",
-        "Matiere_organique": 7.056730126906269
+        "Matiere_organique": 7.056730126906269,
+        "EF_N2O_annuelles": 1.07,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.21,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "41",
@@ -50727,7 +51283,11 @@
         "ISP1": 6.5070991182999265,
         "Besoin_en_chaux": 4.567840375586856,
         "groupe": "MRC",
-        "Matiere_organique": 7.156485867190593
+        "Matiere_organique": 7.156485867190593,
+        "EF_N2O_annuelles": 0.93,
+        "EF_N2O_annuelles_SD": 0.06,
+        "EF_N2O_perennes": 0.12,
+        "EF_N2O_perennes_SD": 0.04
       },
       {
         "code": "42",
@@ -50747,7 +51307,11 @@
         "ISP1": 4.87561753889061,
         "Besoin_en_chaux": 3.7036181553868537,
         "groupe": "MRC",
-        "Matiere_organique": 6.534593684424185
+        "Matiere_organique": 6.534593684424185,
+        "EF_N2O_annuelles": 1.08,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.22,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "43",
@@ -50767,7 +51331,11 @@
         "ISP1": 5.394381134586373,
         "Besoin_en_chaux": 5.5488463969658675,
         "groupe": "MRC",
-        "Matiere_organique": 6.342446641808307
+        "Matiere_organique": 6.342446641808307,
+        "EF_N2O_annuelles": 1.01,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.17,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "44",
@@ -50787,7 +51355,11 @@
         "ISP1": 4.858531113529489,
         "Besoin_en_chaux": 3.147087941021592,
         "groupe": "MRC",
-        "Matiere_organique": 6.065920573260111
+        "Matiere_organique": 6.065920573260111,
+        "EF_N2O_annuelles": 0.87,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.08,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "45",
@@ -50807,7 +51379,11 @@
         "ISP1": 5.619891854555404,
         "Besoin_en_chaux": 4.223232984293196,
         "groupe": "MRC",
-        "Matiere_organique": 6.315380274037062
+        "Matiere_organique": 6.315380274037062,
+        "EF_N2O_annuelles": 1.0,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.16,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "46",
@@ -50827,7 +51403,11 @@
         "ISP1": 7.494627440927727,
         "Besoin_en_chaux": 2.438921851161215,
         "groupe": "MRC",
-        "Matiere_organique": 5.445087751770462
+        "Matiere_organique": 5.445087751770462,
+        "EF_N2O_annuelles": 1.11,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.24,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "47",
@@ -50847,7 +51427,11 @@
         "ISP1": 8.325487713465428,
         "Besoin_en_chaux": 3.777872178544257,
         "groupe": "MRC",
-        "Matiere_organique": 6.338348697111075
+        "Matiere_organique": 6.338348697111075,
+        "EF_N2O_annuelles": 1.1,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.23,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "48",
@@ -50867,7 +51451,11 @@
         "ISP1": 9.04468464286693,
         "Besoin_en_chaux": 1.7024093861303176,
         "groupe": "MRC",
-        "Matiere_organique": 4.6532211531876335
+        "Matiere_organique": 4.6532211531876335,
+        "EF_N2O_annuelles": 1.03,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.18,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "49",
@@ -50887,7 +51475,11 @@
         "ISP1": 7.421655596197747,
         "Besoin_en_chaux": 2.144454225352114,
         "groupe": "MRC",
-        "Matiere_organique": 4.294095857130354
+        "Matiere_organique": 4.294095857130354,
+        "EF_N2O_annuelles": 1.01,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.17,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "50",
@@ -50907,7 +51499,11 @@
         "ISP1": 6.692842484621363,
         "Besoin_en_chaux": 1.6783065512979,
         "groupe": "MRC",
-        "Matiere_organique": 3.7319723009667145
+        "Matiere_organique": 3.7319723009667145,
+        "EF_N2O_annuelles": 0.95,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.13,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "51",
@@ -50927,7 +51523,11 @@
         "ISP1": 5.299727252755022,
         "Besoin_en_chaux": 2.94075718015666,
         "groupe": "MRC",
-        "Matiere_organique": 4.634041141176652
+        "Matiere_organique": 4.634041141176652,
+        "EF_N2O_annuelles": 0.77,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.02,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "52",
@@ -50947,7 +51547,11 @@
         "ISP1": 6.3776100207681585,
         "Besoin_en_chaux": 2.747510999371466,
         "groupe": "MRC",
-        "Matiere_organique": 4.63896573562782
+        "Matiere_organique": 4.63896573562782,
+        "EF_N2O_annuelles": 0.77,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.03,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "53",
@@ -50967,7 +51571,11 @@
         "ISP1": 6.422032439296346,
         "Besoin_en_chaux": 1.3936969301110398,
         "groupe": "MRC",
-        "Matiere_organique": 3.862543773474154
+        "Matiere_organique": 3.862543773474154,
+        "EF_N2O_annuelles": 0.9,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.1,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "54",
@@ -50987,7 +51595,11 @@
         "ISP1": 10.644382848039562,
         "Besoin_en_chaux": 1.163392259745749,
         "groupe": "MRC",
-        "Matiere_organique": 3.6808377723918446
+        "Matiere_organique": 3.6808377723918446,
+        "EF_N2O_annuelles": 0.95,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.14,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "55",
@@ -51007,7 +51619,11 @@
         "ISP1": 8.286736490465172,
         "Besoin_en_chaux": 1.9473598769651415,
         "groupe": "MRC",
-        "Matiere_organique": 4.3953875907683075
+        "Matiere_organique": 4.3953875907683075,
+        "EF_N2O_annuelles": 1.05,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.2,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "56",
@@ -51027,7 +51643,11 @@
         "ISP1": 7.873714325626099,
         "Besoin_en_chaux": 1.5328907512116328,
         "groupe": "MRC",
-        "Matiere_organique": 4.336619691700139
+        "Matiere_organique": 4.336619691700139,
+        "EF_N2O_annuelles": 1.09,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.22,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "57",
@@ -51047,7 +51667,11 @@
         "ISP1": 5.711757936191364,
         "Besoin_en_chaux": 1.6928832116788333,
         "groupe": "MRC",
-        "Matiere_organique": 4.543960959148149
+        "Matiere_organique": 4.543960959148149,
+        "EF_N2O_annuelles": 1.0,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.17,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "58",
@@ -51067,7 +51691,11 @@
         "ISP1": 21.35510504666122,
         "Besoin_en_chaux": 1.8282148900169215,
         "groupe": "MRC",
-        "Matiere_organique": 5.943554254259262
+        "Matiere_organique": 5.943554254259262,
+        "EF_N2O_annuelles": 1.08,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.22,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "59",
@@ -51087,7 +51715,11 @@
         "ISP1": 7.3334691093700375,
         "Besoin_en_chaux": 2.3588282828282847,
         "groupe": "MRC",
-        "Matiere_organique": 4.863393194042113
+        "Matiere_organique": 4.863393194042113,
+        "EF_N2O_annuelles": 0.97,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.15,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "60",
@@ -51107,7 +51739,11 @@
         "ISP1": 7.283345839649139,
         "Besoin_en_chaux": 2.007455708661419,
         "groupe": "MRC",
-        "Matiere_organique": 4.214462874452518
+        "Matiere_organique": 4.214462874452518,
+        "EF_N2O_annuelles": 0.84,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.06,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "61",
@@ -51127,7 +51763,11 @@
         "ISP1": 6.83357632765157,
         "Besoin_en_chaux": 2.652804900515845,
         "groupe": "MRC",
-        "Matiere_organique": 4.375639760169827
+        "Matiere_organique": 4.375639760169827,
+        "EF_N2O_annuelles": 0.75,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.01,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "62",
@@ -51147,7 +51787,11 @@
         "ISP1": 6.3224908070393875,
         "Besoin_en_chaux": 3.5103373231773682,
         "groupe": "MRC",
-        "Matiere_organique": 5.319517960261171
+        "Matiere_organique": 5.319517960261171,
+        "EF_N2O_annuelles": 0.71,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "63",
@@ -51167,7 +51811,11 @@
         "ISP1": 8.553328869855411,
         "Besoin_en_chaux": 2.296577561765899,
         "groupe": "MRC",
-        "Matiere_organique": 4.117131159110498
+        "Matiere_organique": 4.117131159110498,
+        "EF_N2O_annuelles": 0.77,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.02,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "64",
@@ -51187,7 +51835,11 @@
         "ISP1": 5.720360228875234,
         "Besoin_en_chaux": 1.852636655948554,
         "groupe": "MRC",
-        "Matiere_organique": 4.887254819452284
+        "Matiere_organique": 4.887254819452284,
+        "EF_N2O_annuelles": 0.9,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.1,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "65",
@@ -51207,7 +51859,11 @@
         "ISP1": 13.497700839379213,
         "Besoin_en_chaux": 0.5111064543168486,
         "groupe": "MRC",
-        "Matiere_organique": 3.9105896690402475
+        "Matiere_organique": 3.9105896690402475,
+        "EF_N2O_annuelles": 0.92,
+        "EF_N2O_annuelles_SD": 0.01,
+        "EF_N2O_perennes": 0.11,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "66",
@@ -51227,7 +51883,11 @@
         "ISP1": 18.136549391925374,
         "Besoin_en_chaux": 1.6290983606557385,
         "groupe": "MRC",
-        "Matiere_organique": 6.638644291509752
+        "Matiere_organique": 6.638644291509752,
+        "EF_N2O_annuelles": 1.0,
+        "EF_N2O_annuelles_SD": 0.01,
+        "EF_N2O_perennes": 0.17,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "67",
@@ -51247,7 +51907,11 @@
         "ISP1": 6.869396663137807,
         "Besoin_en_chaux": 1.0871906291328175,
         "groupe": "MRC",
-        "Matiere_organique": 4.616219782536782
+        "Matiere_organique": 4.616219782536782,
+        "EF_N2O_annuelles": 1.06,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.2,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "68",
@@ -51267,7 +51931,11 @@
         "ISP1": 9.839518695875968,
         "Besoin_en_chaux": 1.2629188987168316,
         "groupe": "MRC",
-        "Matiere_organique": 5.3571908668171595
+        "Matiere_organique": 5.3571908668171595,
+        "EF_N2O_annuelles": 1.14,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.26,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "69",
@@ -51287,7 +51955,11 @@
         "ISP1": 6.036335010695641,
         "Besoin_en_chaux": 2.251419011029869,
         "groupe": "MRC",
-        "Matiere_organique": 5.449604922354258
+        "Matiere_organique": 5.449604922354258,
+        "EF_N2O_annuelles": 1.06,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.2,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "70",
@@ -51307,7 +51979,11 @@
         "ISP1": 5.948287552381222,
         "Besoin_en_chaux": 1.9927468892739026,
         "groupe": "MRC",
-        "Matiere_organique": 4.999477466294759
+        "Matiere_organique": 4.999477466294759,
+        "EF_N2O_annuelles": 1.0,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.17,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "71",
@@ -51327,7 +52003,11 @@
         "ISP1": 5.4819605590280585,
         "Besoin_en_chaux": 2.0674401197604806,
         "groupe": "MRC",
-        "Matiere_organique": 4.908806807369715
+        "Matiere_organique": 4.908806807369715,
+        "EF_N2O_annuelles": 0.97,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.15,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "72",
@@ -51347,7 +52027,11 @@
         "ISP1": 6.628261777303152,
         "Besoin_en_chaux": 2.0447974583002395,
         "groupe": "MRC",
-        "Matiere_organique": 4.949620745191583
+        "Matiere_organique": 4.949620745191583,
+        "EF_N2O_annuelles": 0.95,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.14,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "73",
@@ -51367,7 +52051,11 @@
         "ISP1": 5.705194275756438,
         "Besoin_en_chaux": 2.224721603563476,
         "groupe": "MRC",
-        "Matiere_organique": 5.283544880863211
+        "Matiere_organique": 5.283544880863211,
+        "EF_N2O_annuelles": 0.89,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.1,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "74",
@@ -51387,7 +52075,11 @@
         "ISP1": 5.637068358255448,
         "Besoin_en_chaux": 2.5008749736453737,
         "groupe": "MRC",
-        "Matiere_organique": 5.542742637380566
+        "Matiere_organique": 5.542742637380566,
+        "EF_N2O_annuelles": 0.96,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.14,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "75",
@@ -51407,7 +52099,11 @@
         "ISP1": 4.528803702713034,
         "Besoin_en_chaux": 3.3688729874776406,
         "groupe": "MRC",
-        "Matiere_organique": 5.307046253126242
+        "Matiere_organique": 5.307046253126242,
+        "EF_N2O_annuelles": 0.87,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.08,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "76",
@@ -51427,7 +52123,11 @@
         "ISP1": 5.006606113131001,
         "Besoin_en_chaux": 3.8685018419975457,
         "groupe": "MRC",
-        "Matiere_organique": 6.138885273748103
+        "Matiere_organique": 6.138885273748103,
+        "EF_N2O_annuelles": 0.98,
+        "EF_N2O_annuelles_SD": 0.08,
+        "EF_N2O_perennes": 0.15,
+        "EF_N2O_perennes_SD": 0.05
       },
       {
         "code": "78",
@@ -51447,7 +52147,11 @@
         "ISP1": 3.8517920814722832,
         "Besoin_en_chaux": 3.52582697201018,
         "groupe": "MRC",
-        "Matiere_organique": 5.944266431181512
+        "Matiere_organique": 5.944266431181512,
+        "EF_N2O_annuelles": 0.76,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.01,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "79",
@@ -51467,7 +52171,11 @@
         "ISP1": 3.956272456113949,
         "Besoin_en_chaux": 4.277244258872653,
         "groupe": "MRC",
-        "Matiere_organique": 5.995676707648872
+        "Matiere_organique": 5.995676707648872,
+        "EF_N2O_annuelles": 0.74,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "80",
@@ -51487,7 +52195,11 @@
         "ISP1": 3.7926300208312846,
         "Besoin_en_chaux": 5.986620530565169,
         "groupe": "MRC",
-        "Matiere_organique": 6.075324668593729
+        "Matiere_organique": 6.075324668593729,
+        "EF_N2O_annuelles": 0.86,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.08,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "81",
@@ -51507,7 +52219,11 @@
         "ISP1": 13.433882466685379,
         "Besoin_en_chaux": 2.985928143712576,
         "groupe": "MRC",
-        "Matiere_organique": 6.040982496048697
+        "Matiere_organique": 6.040982496048697,
+        "EF_N2O_annuelles": 0.9,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.1,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "82",
@@ -51527,7 +52243,11 @@
         "ISP1": 3.912579919360187,
         "Besoin_en_chaux": 3.448348694316438,
         "groupe": "MRC",
-        "Matiere_organique": 5.341416772788534
+        "Matiere_organique": 5.341416772788534,
+        "EF_N2O_annuelles": 0.82,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.05,
+        "EF_N2O_perennes_SD": 0.02
       },
       {
         "code": "83",
@@ -51547,7 +52267,11 @@
         "ISP1": 2.97389663323173,
         "Besoin_en_chaux": 4.500252206809585,
         "groupe": "MRC",
-        "Matiere_organique": 5.836334703711827
+        "Matiere_organique": 5.836334703711827,
+        "EF_N2O_annuelles": 0.73,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.01,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "84",
@@ -51567,7 +52291,11 @@
         "ISP1": 3.7868606176797637,
         "Besoin_en_chaux": 2.8985531135531155,
         "groupe": "MRC",
-        "Matiere_organique": 4.971131580738951
+        "Matiere_organique": 4.971131580738951,
+        "EF_N2O_annuelles": 0.73,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "85",
@@ -51587,7 +52315,11 @@
         "ISP1": 2.495659705433873,
         "Besoin_en_chaux": 3.678797468354432,
         "groupe": "MRC",
-        "Matiere_organique": 5.435573434909066
+        "Matiere_organique": 5.435573434909066,
+        "EF_N2O_annuelles": 0.42,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "86",
@@ -51607,7 +52339,11 @@
         "ISP1": 4.665477947306385,
         "Besoin_en_chaux": 5.784313725490197,
         "groupe": "MRC",
-        "Matiere_organique": 7.650022478560136
+        "Matiere_organique": 7.650022478560136,
+        "EF_N2O_annuelles": 0.34,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "87",
@@ -51627,7 +52363,11 @@
         "ISP1": 2.448546522131004,
         "Besoin_en_chaux": 5.8251371115173685,
         "groupe": "MRC",
-        "Matiere_organique": 9.232139451207106
+        "Matiere_organique": 9.232139451207106,
+        "EF_N2O_annuelles": 0.29,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "88",
@@ -51647,7 +52387,11 @@
         "ISP1": 1.725590830446196,
         "Besoin_en_chaux": 6.40885275519422,
         "groupe": "MRC",
-        "Matiere_organique": 7.2140630378605515
+        "Matiere_organique": 7.2140630378605515,
+        "EF_N2O_annuelles": 0.3,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "89",
@@ -51667,7 +52411,11 @@
         "ISP1": 3.9927973856326058,
         "Besoin_en_chaux": 4.140862068965519,
         "groupe": "MRC",
-        "Matiere_organique": 6.4393563585904126
+        "Matiere_organique": 6.4393563585904126,
+        "EF_N2O_annuelles": 0.35,
+        "EF_N2O_annuelles_SD": 0.01,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "90",
@@ -51687,7 +52435,11 @@
         "ISP1": 4.071487124612648,
         "Besoin_en_chaux": 2.2048951048951064,
         "groupe": "MRC",
-        "Matiere_organique": 4.046585659986996
+        "Matiere_organique": 4.046585659986996,
+        "EF_N2O_annuelles": 0.5,
+        "EF_N2O_annuelles_SD": 0.01,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "91",
@@ -51707,7 +52459,11 @@
         "ISP1": 5.149207036038413,
         "Besoin_en_chaux": 2.7829670329670346,
         "groupe": "MRC",
-        "Matiere_organique": 5.312972374502467
+        "Matiere_organique": 5.312972374502467,
+        "EF_N2O_annuelles": 0.45,
+        "EF_N2O_annuelles_SD": 0.08,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "92",
@@ -51727,7 +52483,11 @@
         "ISP1": 3.308947821431519,
         "Besoin_en_chaux": 6.613627254509019,
         "groupe": "MRC",
-        "Matiere_organique": 6.095409081193532
+        "Matiere_organique": 6.095409081193532,
+        "EF_N2O_annuelles": 0.47,
+        "EF_N2O_annuelles_SD": 0.07,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "93",
@@ -51747,7 +52507,11 @@
         "ISP1": 3.330251833887923,
         "Besoin_en_chaux": 3.029327098263089,
         "groupe": "MRC",
-        "Matiere_organique": 6.736993292389786
+        "Matiere_organique": 6.736993292389786,
+        "EF_N2O_annuelles": 0.64,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "941",
@@ -51767,7 +52531,11 @@
         "ISP1": 2.91607588191323,
         "Besoin_en_chaux": 4.470833333333335,
         "groupe": "MRC",
-        "Matiere_organique": 7.0483310831600186
+        "Matiere_organique": 7.0483310831600186,
+        "EF_N2O_annuelles": 0.56,
+        "EF_N2O_annuelles_SD": 0.02,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "942",
@@ -51787,7 +52555,11 @@
         "ISP1": 2.2488177145989554,
         "Besoin_en_chaux": 5.9846902654867264,
         "groupe": "MRC",
-        "Matiere_organique": 7.72023237789489
+        "Matiere_organique": 7.72023237789489,
+        "EF_N2O_annuelles": 0.63,
+        "EF_N2O_annuelles_SD": 0.07,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "95",
@@ -51807,7 +52579,11 @@
         "ISP1": 1.6631727814314572,
         "Besoin_en_chaux": 7.094603174603176,
         "groupe": "MRC",
-        "Matiere_organique": 6.579576211283156
+        "Matiere_organique": 6.579576211283156,
+        "EF_N2O_annuelles": 0.36,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "96",
@@ -51827,7 +52603,11 @@
         "ISP1": 5.262382986690097,
         "Besoin_en_chaux": 7.996159874608151,
         "groupe": "MRC",
-        "Matiere_organique": 5.153954548207542
+        "Matiere_organique": 5.153954548207542,
+        "EF_N2O_annuelles": 0.39,
+        "EF_N2O_annuelles_SD": 0.01,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "971",
@@ -51847,7 +52627,11 @@
         "ISP1": 8.731807179384916,
         "Besoin_en_chaux": 7.304166666666667,
         "groupe": "MRC",
-        "Matiere_organique": 8.065789823122278
+        "Matiere_organique": 8.065789823122278,
+        "EF_N2O_annuelles": null,
+        "EF_N2O_annuelles_SD": null,
+        "EF_N2O_perennes": null,
+        "EF_N2O_perennes_SD": null
       },
       {
         "code": "981",
@@ -51867,7 +52651,11 @@
         "ISP1": 3.944157078635956,
         "Besoin_en_chaux": 9.057575757575759,
         "groupe": "MRC",
-        "Matiere_organique": 5.761310070525976
+        "Matiere_organique": 5.761310070525976,
+        "EF_N2O_annuelles": null,
+        "EF_N2O_annuelles_SD": null,
+        "EF_N2O_perennes": null,
+        "EF_N2O_perennes_SD": null
       },
       {
         "code": "991",
@@ -51887,7 +52675,11 @@
         "ISP1": 5.567456437794828,
         "Besoin_en_chaux": 1.9734513274336294,
         "groupe": "MRC",
-        "Matiere_organique": 4.03127704680707
+        "Matiere_organique": 4.03127704680707,
+        "EF_N2O_annuelles": 0.16,
+        "EF_N2O_annuelles_SD": 0.01,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       }
     ]
   },
@@ -56375,7 +57167,11 @@
         "Besoin_en_chaux": 0.0,
         "ISP1": 3.0006760373806696,
         "code": "01",
-        "Matiere_organique": 6.664181384393606
+        "Matiere_organique": 6.664181384393606,
+        "EF_N2O_annuelles": 0.43,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "n": 15322,
@@ -56393,7 +57189,11 @@
         "Besoin_en_chaux": 0.0,
         "ISP1": 2.2369885314802076,
         "code": "02",
-        "Matiere_organique": 5.766977617888516
+        "Matiere_organique": 5.766977617888516,
+        "EF_N2O_annuelles": 0.55,
+        "EF_N2O_annuelles_SD": 0.1,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "n": 19946,
@@ -56411,7 +57211,11 @@
         "Besoin_en_chaux": 0.0,
         "ISP1": 3.5669708899423473,
         "code": "03",
-        "Matiere_organique": 5.19514599269871
+        "Matiere_organique": 5.19514599269871,
+        "EF_N2O_annuelles": 0.95,
+        "EF_N2O_annuelles_SD": 0.21,
+        "EF_N2O_perennes": 0.14,
+        "EF_N2O_perennes_SD": 0.08
       },
       {
         "n": 20376,
@@ -56429,7 +57233,11 @@
         "Besoin_en_chaux": 0.0,
         "ISP1": 3.098151671185001,
         "code": "04",
-        "Matiere_organique": 4.703105059714353
+        "Matiere_organique": 4.703105059714353,
+        "EF_N2O_annuelles": 0.81,
+        "EF_N2O_annuelles_SD": 0.09,
+        "EF_N2O_perennes": 0.04,
+        "EF_N2O_perennes_SD": 0.05
       },
       {
         "n": 56815,
@@ -56447,7 +57255,11 @@
         "Besoin_en_chaux": 0.0,
         "ISP1": 3.855856938798975,
         "code": "05",
-        "Matiere_organique": 5.897447895050425
+        "Matiere_organique": 5.897447895050425,
+        "EF_N2O_annuelles": 1.02,
+        "EF_N2O_annuelles_SD": 0.13,
+        "EF_N2O_perennes": 0.18,
+        "EF_N2O_perennes_SD": 0.08
       },
       {
         "n": 1677,
@@ -56465,7 +57277,11 @@
         "Besoin_en_chaux": 0.0,
         "ISP1": 7.059322010550272,
         "code": "06",
-        "Matiere_organique": 4.88137758805933
+        "Matiere_organique": 4.88137758805933,
+        "EF_N2O_annuelles": 1.0,
+        "EF_N2O_annuelles_SD": 0.01,
+        "EF_N2O_perennes": 0.17,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "n": 7971,
@@ -56483,7 +57299,11 @@
         "Besoin_en_chaux": 0.0,
         "ISP1": 2.337481464158525,
         "code": "07",
-        "Matiere_organique": 5.130417131838026
+        "Matiere_organique": 5.130417131838026,
+        "EF_N2O_annuelles": 0.78,
+        "EF_N2O_annuelles_SD": 0.07,
+        "EF_N2O_perennes": 0.02,
+        "EF_N2O_perennes_SD": 0.04
       },
       {
         "n": 2442,
@@ -56501,7 +57321,11 @@
         "Besoin_en_chaux": 0.0,
         "ISP1": 1.3790723155427251,
         "code": "08",
-        "Matiere_organique": 6.65838619527126
+        "Matiere_organique": 6.65838619527126,
+        "EF_N2O_annuelles": 0.31,
+        "EF_N2O_annuelles_SD": 0.06,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "n": 1437,
@@ -56519,7 +57343,11 @@
         "Besoin_en_chaux": 0.0,
         "ISP1": 1.5138446712261577,
         "code": "09",
-        "Matiere_organique": 5.211978524907669
+        "Matiere_organique": 5.211978524907669,
+        "EF_N2O_annuelles": 0.38,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "n": 116,
@@ -56537,7 +57365,11 @@
         "Besoin_en_chaux": 0.0,
         "ISP1": 4.344176847017586,
         "code": "10",
-        "Matiere_organique": 3.42081048374006
+        "Matiere_organique": 3.42081048374006,
+        "EF_N2O_annuelles": 0.16,
+        "EF_N2O_annuelles_SD": 0.01,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "n": 4545,
@@ -56555,7 +57387,11 @@
         "Besoin_en_chaux": 0.0,
         "ISP1": 1.866910553470924,
         "code": "11",
-        "Matiere_organique": 5.73038373424961
+        "Matiere_organique": 5.73038373424961,
+        "EF_N2O_annuelles": 0.42,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "n": 109200,
@@ -56573,7 +57409,11 @@
         "Besoin_en_chaux": 0.0,
         "ISP1": 4.557567437329836,
         "code": "12",
-        "Matiere_organique": 6.211496398428686
+        "Matiere_organique": 6.211496398428686,
+        "EF_N2O_annuelles": 0.93,
+        "EF_N2O_annuelles_SD": 0.16,
+        "EF_N2O_perennes": 0.12,
+        "EF_N2O_perennes_SD": 0.08
       },
       {
         "n": 2521,
@@ -56591,7 +57431,11 @@
         "Besoin_en_chaux": 0.0,
         "ISP1": 10.674123759201319,
         "code": "13",
-        "Matiere_organique": 3.5626774052108576
+        "Matiere_organique": 3.5626774052108576,
+        "EF_N2O_annuelles": 0.92,
+        "EF_N2O_annuelles_SD": 0.01,
+        "EF_N2O_perennes": 0.11,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "n": 52766,
@@ -56609,7 +57453,11 @@
         "Besoin_en_chaux": 0.0,
         "ISP1": 4.899077280891341,
         "code": "14",
-        "Matiere_organique": 4.039591120604157
+        "Matiere_organique": 4.039591120604157,
+        "EF_N2O_annuelles": 0.77,
+        "EF_N2O_annuelles_SD": 0.06,
+        "EF_N2O_perennes": 0.02,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "n": 17375,
@@ -56627,7 +57475,11 @@
         "Besoin_en_chaux": 0.0,
         "ISP1": 3.7276036523526965,
         "code": "15",
-        "Matiere_organique": 5.001778806819365
+        "Matiere_organique": 5.001778806819365,
+        "EF_N2O_annuelles": 0.92,
+        "EF_N2O_annuelles_SD": 0.11,
+        "EF_N2O_perennes": 0.12,
+        "EF_N2O_perennes_SD": 0.07
       },
       {
         "n": 124757,
@@ -56645,7 +57497,11 @@
         "Besoin_en_chaux": 0.0,
         "ISP1": 5.747206594850792,
         "code": "16",
-        "Matiere_organique": 4.005976946065194
+        "Matiere_organique": 4.005976946065194,
+        "EF_N2O_annuelles": 1.02,
+        "EF_N2O_annuelles_SD": 0.07,
+        "EF_N2O_perennes": 0.18,
+        "EF_N2O_perennes_SD": 0.05
       },
       {
         "n": 98649,
@@ -56663,7 +57519,11 @@
         "Besoin_en_chaux": 0.0,
         "ISP1": 4.731953347416211,
         "code": "17",
-        "Matiere_organique": 4.16104857169734
+        "Matiere_organique": 4.16104857169734,
+        "EF_N2O_annuelles": 1.01,
+        "EF_N2O_annuelles_SD": 0.06,
+        "EF_N2O_perennes": 0.17,
+        "EF_N2O_perennes_SD": 0.04
       },
       {
         "code": "QC",
@@ -56683,7 +57543,11 @@
         "pH_tampon": 6.7,
         "Phosphore": 95.94368,
         "Potassium": 193.1315008,
-        "MO4": 69.6816664285
+        "MO4": 69.6816664285,
+        "EF_N2O_annuelles": null,
+        "EF_N2O_annuelles_SD": null,
+        "EF_N2O_perennes": null,
+        "EF_N2O_perennes_SD": null
       }
     ],
     "moyenne": [
@@ -61171,7 +62035,11 @@
         "ISP1": 4.618100632519958,
         "Besoin_en_chaux": 3.3565287172884077,
         "groupe": "Région",
-        "Matiere_organique": 7.236537409244807
+        "Matiere_organique": 7.236537409244807,
+        "EF_N2O_annuelles": 0.44,
+        "EF_N2O_annuelles_SD": 0.05,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "02",
@@ -61191,7 +62059,11 @@
         "ISP1": 3.4000035057000444,
         "Besoin_en_chaux": 4.104039472785632,
         "groupe": "Région",
-        "Matiere_organique": 6.531286067285418
+        "Matiere_organique": 6.531286067285418,
+        "EF_N2O_annuelles": 0.54,
+        "EF_N2O_annuelles_SD": 0.1,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "03",
@@ -61211,7 +62083,11 @@
         "ISP1": 6.189303271559481,
         "Besoin_en_chaux": 4.092867136780839,
         "groupe": "Région",
-        "Matiere_organique": 5.708284723496286
+        "Matiere_organique": 5.708284723496286,
+        "EF_N2O_annuelles": 0.84,
+        "EF_N2O_annuelles_SD": 0.21,
+        "EF_N2O_perennes": 0.1,
+        "EF_N2O_perennes_SD": 0.08
       },
       {
         "code": "04",
@@ -61231,7 +62107,11 @@
         "ISP1": 4.522236904539508,
         "Besoin_en_chaux": 3.253143418467585,
         "groupe": "Région",
-        "Matiere_organique": 5.197201180409363
+        "Matiere_organique": 5.197201180409363,
+        "EF_N2O_annuelles": 0.82,
+        "EF_N2O_annuelles_SD": 0.09,
+        "EF_N2O_perennes": 0.05,
+        "EF_N2O_perennes_SD": 0.05
       },
       {
         "code": "05",
@@ -61251,7 +62131,11 @@
         "ISP1": 5.896327716328391,
         "Besoin_en_chaux": 3.557861264237148,
         "groupe": "Région",
-        "Matiere_organique": 6.275321683645352
+        "Matiere_organique": 6.275321683645352,
+        "EF_N2O_annuelles": 0.99,
+        "EF_N2O_annuelles_SD": 0.13,
+        "EF_N2O_perennes": 0.16,
+        "EF_N2O_perennes_SD": 0.08
       },
       {
         "code": "06",
@@ -61271,7 +62155,11 @@
         "ISP1": 18.136549391925374,
         "Besoin_en_chaux": 1.6290983606557385,
         "groupe": "Région",
-        "Matiere_organique": 6.638644291509752
+        "Matiere_organique": 6.638644291509752,
+        "EF_N2O_annuelles": 1.0,
+        "EF_N2O_annuelles_SD": 0.01,
+        "EF_N2O_perennes": 0.17,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "07",
@@ -61291,7 +62179,11 @@
         "ISP1": 4.402703122327928,
         "Besoin_en_chaux": 3.944511331444761,
         "groupe": "Région",
-        "Matiere_organique": 5.472023850813075
+        "Matiere_organique": 5.472023850813075,
+        "EF_N2O_annuelles": 0.79,
+        "EF_N2O_annuelles_SD": 0.07,
+        "EF_N2O_perennes": 0.04,
+        "EF_N2O_perennes_SD": 0.04
       },
       {
         "code": "08",
@@ -61311,7 +62203,11 @@
         "ISP1": 2.5149296118332924,
         "Besoin_en_chaux": 5.742866435385951,
         "groupe": "Région",
-        "Matiere_organique": 7.494868511299279
+        "Matiere_organique": 7.494868511299279,
+        "EF_N2O_annuelles": 0.33,
+        "EF_N2O_annuelles_SD": 0.06,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "09",
@@ -61331,7 +62227,11 @@
         "ISP1": 3.5449959006255205,
         "Besoin_en_chaux": 7.617268041237114,
         "groupe": "Région",
-        "Matiere_organique": 5.916076947526086
+        "Matiere_organique": 5.916076947526086,
+        "EF_N2O_annuelles": 0.37,
+        "EF_N2O_annuelles_SD": 0.03,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "10",
@@ -61351,7 +62251,11 @@
         "ISP1": 5.567456437794828,
         "Besoin_en_chaux": 1.9734513274336294,
         "groupe": "Région",
-        "Matiere_organique": 4.03127704680707
+        "Matiere_organique": 4.03127704680707,
+        "EF_N2O_annuelles": 0.16,
+        "EF_N2O_annuelles_SD": 0.01,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "11",
@@ -61371,7 +62275,11 @@
         "ISP1": 3.4863391947493763,
         "Besoin_en_chaux": 3.9794183445190177,
         "groupe": "Région",
-        "Matiere_organique": 6.191361410086765
+        "Matiere_organique": 6.191361410086765,
+        "EF_N2O_annuelles": 0.43,
+        "EF_N2O_annuelles_SD": 0.04,
+        "EF_N2O_perennes": 0.0,
+        "EF_N2O_perennes_SD": 0.0
       },
       {
         "code": "12",
@@ -61391,7 +62299,11 @@
         "ISP1": 6.447409740493787,
         "Besoin_en_chaux": 3.789600635009775,
         "groupe": "Région",
-        "Matiere_organique": 6.642174428164128
+        "Matiere_organique": 6.642174428164128,
+        "EF_N2O_annuelles": 0.9,
+        "EF_N2O_annuelles_SD": 0.16,
+        "EF_N2O_perennes": 0.11,
+        "EF_N2O_perennes_SD": 0.08
       },
       {
         "code": "13",
@@ -61411,7 +62323,11 @@
         "ISP1": 13.497700839379213,
         "Besoin_en_chaux": 0.5111064543168486,
         "groupe": "Région",
-        "Matiere_organique": 3.9105896690402475
+        "Matiere_organique": 3.9105896690402475,
+        "EF_N2O_annuelles": 0.92,
+        "EF_N2O_annuelles_SD": 0.01,
+        "EF_N2O_perennes": 0.11,
+        "EF_N2O_perennes_SD": 0.01
       },
       {
         "code": "14",
@@ -61431,7 +62347,11 @@
         "ISP1": 7.029017953694589,
         "Besoin_en_chaux": 2.5853996564625064,
         "groupe": "Région",
-        "Matiere_organique": 4.424752493829608
+        "Matiere_organique": 4.424752493829608,
+        "EF_N2O_annuelles": 0.78,
+        "EF_N2O_annuelles_SD": 0.06,
+        "EF_N2O_perennes": 0.03,
+        "EF_N2O_perennes_SD": 0.03
       },
       {
         "code": "15",
@@ -61451,7 +62371,11 @@
         "ISP1": 5.633521130025082,
         "Besoin_en_chaux": 2.77517751926273,
         "groupe": "Région",
-        "Matiere_organique": 5.487020345731266
+        "Matiere_organique": 5.487020345731266,
+        "EF_N2O_annuelles": 0.89,
+        "EF_N2O_annuelles_SD": 0.11,
+        "EF_N2O_perennes": 0.1,
+        "EF_N2O_perennes_SD": 0.07
       },
       {
         "code": "16",
@@ -61471,7 +62395,11 @@
         "ISP1": 8.590046927975113,
         "Besoin_en_chaux": 1.580015147589342,
         "groupe": "Région",
-        "Matiere_organique": 4.4944802949612335
+        "Matiere_organique": 4.4944802949612335,
+        "EF_N2O_annuelles": 1.02,
+        "EF_N2O_annuelles_SD": 0.07,
+        "EF_N2O_perennes": 0.18,
+        "EF_N2O_perennes_SD": 0.05
       },
       {
         "code": "17",
@@ -61491,7 +62419,11 @@
         "ISP1": 6.22992806903132,
         "Besoin_en_chaux": 2.29645555011541,
         "groupe": "Région",
-        "Matiere_organique": 4.706976129218885
+        "Matiere_organique": 4.706976129218885,
+        "EF_N2O_annuelles": 1.02,
+        "EF_N2O_annuelles_SD": 0.06,
+        "EF_N2O_perennes": 0.18,
+        "EF_N2O_perennes_SD": 0.04
       },
       {
         "code": "QC",
@@ -61511,7 +62443,11 @@
         "pH_tampon": 6.69408116,
         "Phosphore": 133.0823920389,
         "Potassium": 246.1207610915,
-        "MO4": 69.6816664285
+        "MO4": 69.6816664285,
+        "EF_N2O_annuelles": null,
+        "EF_N2O_annuelles_SD": null,
+        "EF_N2O_perennes": null,
+        "EF_N2O_perennes_SD": null
       }
     ]
   },
